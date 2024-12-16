@@ -18,4 +18,4 @@ Download the ZIP file here: https://kwfenske.github.io/file-search-java.zip
 Released under the terms and conditions of the Apache License (version 2.0 or
 later) and/or the GNU General Public License (GPL, version 2 or later).
 
-![File Search (Java) sample program image](FileSearch1.gif)
+![File Search (Java) sample program image](FileSearch1.png)
